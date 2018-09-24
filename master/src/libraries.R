@@ -1,0 +1,7 @@
+library(foreign)
+library(shapefiles)
+library(corrplot)
+library(randomForest)
+library(caret)
+library(dummies)
+library(sqldf)
